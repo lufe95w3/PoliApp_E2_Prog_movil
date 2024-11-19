@@ -32,6 +32,3 @@ Si deseas probar PoliApp en tu dispositivo Android, puedes descargar el archivo 
 
 ---
 
-Con esta estructura y los títulos en negrita, el README se verá más organizado y fácil de leer. Los usuarios podrán identificar rápidamente las secciones más importantes de la información.
-
-Si necesitas más ayuda con el formato o cualquier otra cosa, ¡avísame!
